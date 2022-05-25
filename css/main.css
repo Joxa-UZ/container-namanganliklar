@@ -130,6 +130,8 @@ img {
   color: #fff;
   border-radius: 10px;
   text-decoration: none;
+  border: 2px solid transparent;
+
   transition: 1s;
 }
 
@@ -397,6 +399,11 @@ time {
   background-color: #F6F6F6;
   border-radius: 10px;
   margin-bottom: 10px;
+}
+.news-under-link{
+  width: 1201px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .footer-top-top{
